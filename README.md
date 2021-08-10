@@ -1,4 +1,4 @@
-# THỰC TẬP NĂM HỌC 2020-2021
+# ĐỒ ÁN TỐT NGHIỆP NĂM HỌC 2021
 - Họ tên: Lê Quang Vũ
 - Mã sinh viên: 5851071090
 - Lớp: Công nghệ thông tin K58
